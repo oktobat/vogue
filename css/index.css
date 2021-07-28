@@ -1,5 +1,5 @@
 @charset "utf-8";
-@import url(http://fonts.googleapis.com/css?family=Orbitron);
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
 
 body {  background:#111;  font-family: 'Orbitron', sans-serif; }
 .wrap { position:fixed; width:100%; height:100%; 
